@@ -169,10 +169,6 @@ The system is designed to work with COCO dataset by default, but you can modify 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [YOLOv5](https://github.com/ultralytics/yolov5) by Ultralytics
